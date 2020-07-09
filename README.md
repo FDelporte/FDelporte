@@ -16,4 +16,6 @@ You can hire me for small coding jobs, writing and presenting.
 
 Controlling physical things with some lines of code is magic! This book includes a lot of info and history about Java itself and how to install it on the Raspberry Pi. Also a lot of tips and tricks to become or be a better developer.
 
+The sources of this book are available in [a repository here on GitHub](https://github.com/FDelporte/JavaOnRaspberryPi).
+
 [![Banner book](https://webtechie.be/images/book/book-banner.jpg)](https://webtechie.be/books/)
