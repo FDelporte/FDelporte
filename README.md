@@ -20,4 +20,4 @@ The sources of this book are available in a [repository here on GitHub](https://
 
 [![Banner book](https://webtechie.be/images/book/book-banner.jpg)](https://webtechie.be/books/)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FDelporte&count_private=true&theme=tokyonight&showicons=true)]()
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FDelporte&count_private=true&theme=tokyonight&showicons=true)
