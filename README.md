@@ -2,9 +2,9 @@
 
 Check [my blog](https://webtechie.be/) for more info about the projects here.
 
-[![JFXCentral](https://img.shields.io/badge/Find_me_on-JFXCentral-blue?logo=firefox&logoColor=white)]([https://www.jfx-central.com/libraries/gemsfx](https://www.jfx-central.com/people/f.delporte))
-[![Mastodon](https://img.shields.io/badge/Find_me_on-Mastodon-blue?logo=mastodon&logoColor=white)]([https://foojay.social/@frankdelporte](https://foojay.social/@frankdelporte))
-[![LinkedIn](https://img.shields.io/badge/Find_me_on-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/frankdelporte/](https://www.linkedin.com/in/frankdelporte/))
+[![JFXCentral](https://img.shields.io/badge/Find_me_on-JFXCentral-blue?logo=firefox&logoColor=white)](https://www.jfx-central.com/people/f.delporte)
+[![Mastodon](https://img.shields.io/badge/Find_me_on-Mastodon-blue?logo=mastodon&logoColor=white)](https://foojay.social/@frankdelporte)
+[![LinkedIn](https://img.shields.io/badge/Find_me_on-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frankdelporte/)
 
 ## About me
 
