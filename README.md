@@ -2,6 +2,7 @@
 
 Check [my blog](https://webtechie.be/) for more info about the projects here.
 
+[![Foojay](https://img.shields.io/badge/Find_me_on-Foojay-blue?logo=openjdk&logoColor=white)](https://foojay.io/today/author/frankdelporte/)
 [![JFXCentral](https://img.shields.io/badge/Find_me_on-JFXCentral-blue?logo=firefox&logoColor=white)](https://www.jfx-central.com/people/f.delporte)
 [![Mastodon](https://img.shields.io/badge/Find_me_on-Mastodon-blue?logo=mastodon&logoColor=white)](https://foojay.social/@frankdelporte)
 [![LinkedIn](https://img.shields.io/badge/Find_me_on-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frankdelporte/)
