@@ -8,6 +8,12 @@ Check [my blog](https://webtechie.be/) for more info about the projects here.
 [![LinkedIn](https://img.shields.io/badge/Find_me_on-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frankdelporte/)
 [![Webtechie](https://img.shields.io/badge/Find_me_on-Webtechie-blue?logo=firefox&logoColor=white)](https://www.webtechie.be)
 
+## You want to treat me a coffee?
+
+If you are using any of my projects, reading my blogs, watching my videos,... and want to support me in making more of these, you can [buy me a coffee](https://ko-fi.com/frankdelporte).
+
+
+
 ## About me
 
 Software developer/technical lead/writer with almost 30 years of experience in video, multimedia, technical project management, digital signage and (web) programming.
