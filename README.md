@@ -12,7 +12,7 @@ Check [my blog](https://webtechie.be/) for more info about the projects here.
 
 If you are using any of my projects, reading my blogs, watching my videos,... and want to support me in making more of these, you can [buy me a coffee](https://ko-fi.com/frankdelporte).
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L7TQMNU)
 
 ## About me
 
