@@ -37,6 +37,6 @@ The sources of this book are available in a [repository here on GitHub](https://
 
 ## Stats...
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FDelporte&count_private=true&theme=tokyonight&showicons=true)
-
 [![committers.top badge](https://user-badge.committers.top/belgium/FDelporte.svg)](https://user-badge.committers.top/belgium/FDelporte)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FDelporte&count_private=true&theme=tokyonight&showicons=true)
