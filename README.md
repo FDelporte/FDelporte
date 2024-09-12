@@ -11,6 +11,8 @@ Check [my blog](https://webtechie.be/) for more info about the projects here.
 [![YouTube](https://img.shields.io/badge/YouTube-blue?logo=youtube&logoColor=white)](https://www.youtube.com/@FrankDelporte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frankdelporte/)
 
+[![committers.top badge](https://user-badge.committers.top/belgium/FDelporte.svg)](https://user-badge.committers.top/belgium/FDelporte)
+
 ## About me
 
 Software developer/technical lead/writer with almost 30 years of experience in video, multimedia, technical project management, digital signage and (web) programming.
