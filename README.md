@@ -21,6 +21,8 @@ I love to KISS (Keep It Simple, Stupid) and try to do this in everything I do.
 
 You can hire me for small coding jobs, writing, and presenting. 
 
+<a href="https://app.daily.dev/frankdelporte"><img src="https://api.daily.dev/devcards/v2/FYUQ2tdvdAggrYnzIznpi.png?r=fa3&type=wide" width="652" alt="Frank Delporte's Dev Card"/></a>
+
 ## You want to treat me a coffee?
 
 If you are using any of my projects, reading my blogs, watching my videos,... and want to support me in making more of these, you can [buy me a coffee](https://ko-fi.com/frankdelporte).
