@@ -18,9 +18,9 @@ My main projects:
 
 * [My blog webtechie.be](https://webtechie.be/)
 * [My company CodeWriter bv](https://codewriter.be/)
-* Writing Java-related articles for [Foojay.io, the website for the Friends Of OpenJDK](https://foojay.io/today/author/frankdelporte/)
+* Java-related articles for [Foojay.io, the website for the Friends Of OpenJDK](https://foojay.io/today/author/frankdelporte/)
 * JavaFX-related video interviews, tutorials, links of the week,... for [jfx-central.com ](https://www.jfx-central.com/)
-* Project coordination and documentation for [Pi4J, the friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform](https://www.pi4j.com/).
+* Project coordination and documentation for [Pi4J (#JavaOnRaspberryPi)](https://www.pi4j.com/)
 * [Melodymatrix](https://melodymatrix.rocks/), an app to "look at music", a project I'm working on together with my 14-year-old son.
 
 ## You want to treat me a coffee?
