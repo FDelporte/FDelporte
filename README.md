@@ -2,7 +2,6 @@
 
 Check [my blog](https://webtechie.be/) for more info about the projects here.
 
-
 [![Webtechie](https://img.shields.io/badge/Personal_blog-webtechie.be-blue?logo=firefox&logoColor=white)](https://www.webtechie.be)
 [![Foojay](https://img.shields.io/badge/Friends_Of_OpenJDK-foojay.io-blue?logo=openjdk&logoColor=white)](https://foojay.io/today/author/frankdelporte/)
 [![JFXCentral](https://img.shields.io/badge/Home_to_anything_JavaFX_related-jfxcentral.com-blue?logo=openjdk&logoColor=white)](https://www.jfx-central.com/people/f.delporte)
@@ -13,21 +12,27 @@ Check [my blog](https://webtechie.be/) for more info about the projects here.
 
 ## About me
 
-Software developer/technical lead/writer with almost 30 years of experience in video, multimedia, technical project management, digital signage and (web) programming.
-
-My current work tools are Java/Git/Atlassian/AWS/PostgreSQL with IntelliJ IDEA/Visual Studio Code, but I also use/used ASP.NET, C#, JavaScript, Angular, SQL Server, Flex, CSS, HTML5, Eclipse, QT,...
-
-I love to KISS (Keep It Simple, Stupid) and try to do this in everything I do.
+Software developer/technical lead/writer with almost 30 years of experience in video, multimedia, technical project management, digital signage and (web) programming. My current work tools are Java/Git/Atlassian/AWS/PostgreSQL with IntelliJ IDEA/Visual Studio Code, but I also use/used ASP.NET, C#, JavaScript, Angular, SQL Server, Flex, CSS, HTML5, Eclipse, QT,... I love to **KISS (Keep It Simple, Stupid)** and try to do this in everything I do.
 
 You can hire me for small coding jobs, writing, and presenting. 
 
-<a href="https://app.daily.dev/frankdelporte"><img src="https://api.daily.dev/devcards/v2/FYUQ2tdvdAggrYnzIznpi.png?r=fa3&type=wide" width="652" alt="Frank Delporte's Dev Card"/></a>
+My main projects:
+
+* [My blog webtechie.be](https://webtechie.be/)
+* [My company CodeWriter bv](https://codewriter.be/)
+* Writing Java-related articles for [Foojay.io, the website for the Friends Of OpenJDK](https://foojay.io/today/author/frankdelporte/)
+* JavaFX-related video interviews, tutorials, links of the week,... for [jfx-central.com ](https://www.jfx-central.com/)
+* Project coordination and documentation for [Pi4J, the friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform](https://www.pi4j.com/).
+* [Melodymatrix](https://melodymatrix.rocks/), an app to "look at music", a project I'm working on together with my 14-year-old son.
 
 ## You want to treat me a coffee?
 
-If you are using any of my projects, reading my blogs, watching my videos,... and want to support me in making more of these, you can [buy me a coffee](https://ko-fi.com/frankdelporte).
+If you use any of my projects, read my blogs, watch my videos, or... and want to support me in making more of these, you can support me with:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L7TQMNU)
+* [GitHub Sponsorship](https://github.com/sponsors/FDelporte)
+* [Buying me a coffee](https://ko-fi.com/frankdelporte)
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L7TQMNU)
+* [Donation via Polar.sh linked to my personal company CodeWriter bv](https://polar.sh/codewriter-bv)
 
 ## Author of "Getting Started with Java on Raspberry Pi"
 
