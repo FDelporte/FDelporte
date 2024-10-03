@@ -1,7 +1,5 @@
 # Frank Delporte - webtechie.be
 
-Check [my blog](https://webtechie.be/) for more info about the projects here.
-
 [![Webtechie](https://img.shields.io/badge/Personal_blog-webtechie.be-blue?logo=firefox&logoColor=white)](https://www.webtechie.be)
 [![Foojay](https://img.shields.io/badge/Friends_Of_OpenJDK-foojay.io-blue?logo=openjdk&logoColor=white)](https://foojay.io/today/author/frankdelporte/)
 [![JFXCentral](https://img.shields.io/badge/Home_to_anything_JavaFX_related-jfxcentral.com-blue?logo=openjdk&logoColor=white)](https://www.jfx-central.com/people/f.delporte)
