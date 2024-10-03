@@ -31,8 +31,9 @@ If you use any of my projects, read my blogs, watch my videos, or... and want to
 
 * [GitHub Sponsorship](https://github.com/sponsors/FDelporte)
 * [Buying me a coffee](https://ko-fi.com/frankdelporte)
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L7TQMNU)
 * [Donation via Polar.sh linked to my personal company CodeWriter bv](https://polar.sh/codewriter-bv)
+ 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L7TQMNU)
 
 ## Author of "Getting Started with Java on Raspberry Pi"
 
