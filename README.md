@@ -7,6 +7,7 @@
 [![JFXCentral](https://img.shields.io/badge/Home_to_anything_JavaFX_related-jfxcentral.com-blue?logo=openjdk&logoColor=white)](https://www.jfx-central.com/people/f.delporte)
 
 [![Mastodon](https://img.shields.io/badge/Mastodon-blue?logo=mastodon&logoColor=white)](https://foojay.social/@frankdelporte)
+[![Bluesky](https://img.shields.io/badge/Bluesky-blue?logo=bluesky&logoColor=white)](https://bsky.app/profile/frankdelporte.be)
 [![YouTube](https://img.shields.io/badge/YouTube-blue?logo=youtube&logoColor=white)](https://www.youtube.com/@FrankDelporte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frankdelporte/)
 
