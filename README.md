@@ -1,4 +1,4 @@
-# Frank Delporte - webtechie.be
+# Frank Delporte - [webtechie.be](https://webtechie.be/) - [codewriter.be](https://codewriter.be/)
 
 [![Webtechie](https://img.shields.io/badge/Personal_blog-webtechie.be-blue?logo=firefox&logoColor=white)](https://www.webtechie.be)
 [![Foojay](https://img.shields.io/badge/Friends_Of_OpenJDK-foojay.io-blue?logo=openjdk&logoColor=white)](https://foojay.io/today/author/frankdelporte/)
@@ -10,7 +10,7 @@
 
 ## About me
 
-Software developer/technical lead/writer with almost 30 years of experience in video, multimedia, technical project management, digital signage and (web) programming. My current work tools are Java/Git/Atlassian/AWS/PostgreSQL with IntelliJ IDEA/Visual Studio Code, but I also use/used ASP.NET, C#, JavaScript, Angular, SQL Server, Flex, CSS, HTML5, Eclipse, QT,... I love to **KISS (Keep It Simple, Stupid)** and try to do this in everything I do.
+Software developer and technical lead/writer with almost 30 years of experience in video, multimedia, technical project management, digital signage, and (web) programming. My current work tools include Java, JavaFX, Git, AWS, PostgreSQL, writing tools, IntelliJ IDEA, Visual Studio Code,... And used many more in previous projects, like PostgreSQL, C#, JavaScript, Angular, SQL Server, Flex, CSS, HTML5, Eclipse, QT,... I love to **KISS (Keep It Simple, Stupid)** while getting things done.
 
 You can hire me for small coding jobs, writing, and presenting. 
 
@@ -35,9 +35,9 @@ If you use any of my projects, read my blogs, watch my videos, or... and want to
 
 ## Author of "Getting Started with Java on Raspberry Pi"
 
-Controlling physical things with some lines of code is magic! This book includes a lot of info and history about Java itself and how to install it on the Raspberry Pi, with many example applications. Also, a lot of tips and tricks to become or be a better developer.
+Controlling physical things with some lines of code is magic! This book provides a wealth of information and historical context about Java, along with instructions on how to install it on the Raspberry Pi, accompanied by numerous example applications. Additionally, there are many tips and tricks to help you become a better developer.
 
-The sources of this book are available in a [repository here on GitHub](https://github.com/FDelporte/JavaOnRaspberryPi).
+The code examples of this book are available in a [repository here on GitHub](https://github.com/FDelporte/JavaOnRaspberryPi).
 
 [![Banner book](https://webtechie.be/images/book/book-banner.png)](https://webtechie.be/books/)
 
