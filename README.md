@@ -24,6 +24,7 @@ My main projects:
 * Java-related articles for [Foojay.io, the website for the Friends Of OpenJDK](https://foojay.io/today/author/frankdelporte/)
 * JavaFX-related video interviews, tutorials, links of the week,... for [jfx-central.com ](https://www.jfx-central.com/)
 * Project coordination and documentation for [Pi4J (#JavaOnRaspberryPi)](https://www.pi4j.com/)
+* [Lottie4J](https://lottie4j.com/), a library for parsing Lottie animations as Java objects and playing them as JavaFX animations.
 * [Melodymatrix](https://melodymatrix.rocks/), an app to "look at music", a project I'm working on together with my 14-year-old son.
 
 ## You want to treat me a coffee?
