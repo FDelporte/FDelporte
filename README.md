@@ -47,6 +47,8 @@ The code examples of this book are available in a [repository here on GitHub](ht
 
 ## Stats...
 
+<a href="https://app.daily.dev/frankdelporte"><img src="https://api.daily.dev/devcards/v2/FYUQ2tdvdAggrYnzIznpi.png?type=default&r=ajq" width="356" alt="Frank Delporte's Dev Card"/></a>
+
 [![committers.top badge](https://user-badge.committers.top/belgium/FDelporte.svg)](https://user-badge.committers.top/belgium/FDelporte)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FDelporte&count_private=true&theme=tokyonight&showicons=true)
